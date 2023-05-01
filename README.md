@@ -1,2 +1,2 @@
 # Javascript
-Projeto de aprendizagem em Javascript
+Aulas e exercícios do Curso JavaScript
